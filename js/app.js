@@ -98,6 +98,6 @@ $(document).ready(function () {
   });
 
   $("a").smoothScroll({
-    speed: 5000,
+    speed: 800,
   });
 });
